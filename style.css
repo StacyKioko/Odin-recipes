@@ -86,10 +86,13 @@ span {
     margin-right: 40px;
  }
 
- a:hover {
-    color: pink;
+ a:link {
+    color: #663366;
  }
 
+ a:hover {
+    color: blue;
+ }
  a {
     text-decoration: none;
  }
