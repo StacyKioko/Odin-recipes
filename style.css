@@ -31,6 +31,7 @@ h1 {
    height: 300px;
    width: 300px;
    background: url("https://images.unsplash.com/photo-1540189549336-e6e99c3679fe?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8N3x8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=60"), linear-gradient(black, grey);
+   background-blend-mode: overlay;
    margin: 50px;
    padding: 10pt;
    background-position: center;
@@ -86,6 +87,9 @@ span {
     margin-right: 40px;
  }
 
+.picture {
+    margin-bottom: 20px;,
+}
  a:link {
     color: #663366;
  }
